@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
  It is purpose for only learning
 ## How to Contribute
 ## Deployment
+### Copyright
+2019 git Training
