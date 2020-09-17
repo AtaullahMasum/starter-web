@@ -17,4 +17,4 @@ Sample website with plenty of files for demos
  please fork this repository and then issue pull request for review
 ## Deployment
 ### Copyright
-2019 git Training
+2019 git Training. All right reseved.
